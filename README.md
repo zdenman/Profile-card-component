@@ -9,7 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/ordersummarycomponent-mm-Zu4QUB)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/profile-card-component-9flyUJEZ4)
 - Live Site URL: [here](https://profile-card-component-three-omega.vercel.app/)
 
 
